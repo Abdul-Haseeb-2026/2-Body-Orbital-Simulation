@@ -3,9 +3,9 @@
 An interactive 2-body orbital simulation built with pygame. It demonstrates several numerical integrators and how integrator choice and step size affect orbital stability and energy conservation. The GUI lets you change integrators, masses, and the test mass's initial tangential velocity and shows real-time energy error.
 
 Demo
-![video](https://github.com/user-attachments/assets/2609765e-3630-4c0c-8fcc-8043716b2214)
+![image](https://github.com/user-attachments/assets/2609765e-3630-4c0c-8fcc-8043716b2214)
 
-![video](https://github.com/user-attachments/assets/457b9f0c-afed-4085-996f-02cbc08bb464)
+![image](https://github.com/user-attachments/assets/457b9f0c-afed-4085-996f-02cbc08bb464)
 
 
 Quick summary
